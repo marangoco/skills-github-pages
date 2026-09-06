@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Bienvenido a mi blog!
 ---
+*Comenzando en Git*
